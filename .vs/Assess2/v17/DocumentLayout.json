@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akash\\source\\repos\\Assess2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\logg\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:logg\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\assess2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:assess2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\models\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:models\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\dbentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:dbentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\assess2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:assess2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|c:\\users\\akash\\source\\repos\\assess2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84A81651-C43C-4B47-A94D-20E48F92D653}|Assess2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogFile.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Logg\\LogFile.cs",
+              "RelativeDocumentMoniker": "Logg\\LogFile.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Logg\\LogFile.cs",
+              "RelativeToolTip": "Logg\\LogFile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:51:24.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\DbEntity.cs",
+              "RelativeDocumentMoniker": "DbEntity.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\DbEntity.cs",
+              "RelativeToolTip": "DbEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:47:46.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assess2",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Assess2.csproj",
+              "RelativeDocumentMoniker": "Assess2.csproj",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Assess2.csproj",
+              "RelativeToolTip": "Assess2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T07:27:14.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:33:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assess2.csproj",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Assess2.csproj",
+              "RelativeDocumentMoniker": "Assess2.csproj",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Assess2.csproj",
+              "RelativeToolTip": "Assess2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T04:49:18.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "Controllers\\DirectorController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:21:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directors.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\Models\\Directors.cs",
+              "RelativeDocumentMoniker": "Models\\Directors.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\Models\\Directors.cs",
+              "RelativeToolTip": "Models\\Directors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:54:09.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DbConnection.cs",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\DbConnection.cs",
+              "RelativeToolTip": "DbConnection.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:49:39.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akash\\source\\repos\\Assess2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Akash\\source\\repos\\Assess2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T04:47:26.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
